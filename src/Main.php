@@ -4,7 +4,6 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
 use pocketmine\Command\Command;
 use pocketmine\Command\CommandSender;
-use pocketmine\entity\Effect;
 class Main extends PluginBase{
 	
 	public function onEnable(){
